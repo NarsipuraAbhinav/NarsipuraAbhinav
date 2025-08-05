@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an Online Sports Arena Booking System<br>👯 I’m looking to collaborate on Machine Learning and Deep Learning projects<br>🌱 I’m currently learning Computer Vision and Next.js<br>💬 Ask me about Web Development and AI<br>⚡ Fun fact I like to know about planes
+🔭 I’m currently learning and exploring deep learning<br>👯 I’m looking to collaborate on Machine Learning and Deep Learning projects<br>🌱 I’m currently learning Computer Vision<br>💬 Ask me about Machine Learning and AI<br>⚡ Fun fact I have keen interest in planes
 
 
 ## 🌐 Socials:
